@@ -1,2 +1,2 @@
-# iDaMamba
-Invariable-domain Aware Mamba for Image Fusion
+# DecoupFormer
+Spatio-spectralDegradation Decoupled·Unfolding forHyperspectral and Multispectral.Image·Fusion
